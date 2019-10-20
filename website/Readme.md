@@ -12,6 +12,15 @@
 
 > Note : some open-source templates have been used at some points which were freely available
 
+User login credentials with course upload access are : 
+1) Login : cse@iitg.ac.in
+   Password : cse12345
+2) Login : finance@iitg.ac.in
+   Password ' finance12345
+3) Login : coding@iitg.ac.in
+   Password : coding12345
+4) Login : eee@iitg.ac.in
+   Password : eee12345
 
 
 
