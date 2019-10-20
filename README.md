@@ -3,6 +3,6 @@
 To run the code, clone the repo and perform:
 >> pip install requirements.txt
 
-Initiate the command : 
+Initiate the command to start the app : 
 >> python manage.py runserver
-to start the app
+
