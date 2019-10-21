@@ -120,7 +120,6 @@ greenlet==0.4.12
 grpc-google-iam-v1==0.11.4
 grpcio==1.19.0
 gunicorn==19.7.1
-h5py==2.7.0rc3
 html5lib==0.9999999
 httplib2==0.10.3
 humanize==0.5.1
