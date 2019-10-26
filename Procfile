@@ -1,2 +1,2 @@
-web: gunicorn e-learning.wsgi --log-file -
+web: gunicorn website.wsgi --log-file -
 © 2019 GitHub, Inc.
