@@ -1,4 +1,4 @@
-# E-Learning IITG Kapili Hostel
+# E-Learning IITG
 
 To run the code, clone the repo and navigate inside website and perform:
 >> pip install requirements.txt
